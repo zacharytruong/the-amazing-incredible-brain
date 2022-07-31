@@ -228,12 +228,12 @@ export default function Fact() {
       </InfoGraphic>
       <Footer>
         <NavContainer>
-          <Link to="/fiction">
+          <Link to="/the-amazing-incredible-brain/fiction">
             <button className="next">
               Next <BiRightArrowAlt />
             </button>
           </Link>
-          <Link to="/author">
+          <Link to="/the-amazing-incredible-brain/author">
             <button className="back">
               <BiLeftArrowAlt /> Back
             </button>

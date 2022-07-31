@@ -63,12 +63,12 @@ export default function Author() {
         </p>
       </Description>
       <NavContainer>
-        <Link to="/fact">
+        <Link to="/the-amazing-incredible-brain/fact">
           <button className="next">
             Next <BiRightArrowAlt />
           </button>
         </Link>
-        <Link to="/">
+        <Link to="/the-amazing-incredible-brain/">
           <button className="back">
             <BiLeftArrowAlt /> Back
           </button>

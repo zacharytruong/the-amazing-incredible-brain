@@ -74,12 +74,12 @@ export default function Fiction() {
       <BottomImage src={NLI_People_General_alt} alt="NLI_People_General_alt" />
       <Footer>
         <NavContainer>
-          <Link to="/">
+          <Link to="/the-amazing-incredible-brain/">
             <button className="next">
               Start Over <BiRightArrowAlt />
             </button>
           </Link>
-          <Link to="/fact">
+          <Link to="/the-amazing-incredible-brain/fact">
             <button className="back">
               <BiLeftArrowAlt /> Back
             </button>

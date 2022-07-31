@@ -38,7 +38,7 @@ export default function Home() {
         </BrainIdeaContainer>
       </TitleContainer>
       <NavContainer>
-        <Link to="/author">
+        <Link to="/the-amazing-incredible-brain/author">
           <button>
             Next <BiRightArrowAlt />
           </button>

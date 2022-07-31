@@ -7,10 +7,10 @@ function App() {
   return (
     <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/author" element={<Author />} />
-          <Route path="/fact" element={<Fact />} />
-          <Route path="/fiction" element={<Fiction />} />
+          <Route path="/the-amazing-incredible-brain/" element={<Home />} />
+          <Route path="/the-amazing-incredible-brain/author" element={<Author />} />
+          <Route path="/the-amazing-incredible-brain/fact" element={<Fact />} />
+          <Route path="/the-amazing-incredible-brain/fiction" element={<Fiction />} />
         </Routes>
       </BrowserRouter>
   );
