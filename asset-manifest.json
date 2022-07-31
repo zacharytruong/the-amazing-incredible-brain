@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/the-amazing-incredible-brain/static/css/main.11a378fa.css",
+    "main.js": "/the-amazing-incredible-brain/static/js/main.f804aa11.js",
+    "static/media/Blog_Brain_02.png": "/the-amazing-incredible-brain/static/media/Blog_Brain_02.e10b51978940bf397661.png",
+    "static/media/NLI_People_General_alt.png": "/the-amazing-incredible-brain/static/media/NLI_People_General_alt.986db6fb4029803830ea.png",
+    "static/media/Brain_Graphic_10_percent_smaller.png": "/the-amazing-incredible-brain/static/media/Brain_Graphic_10_percent_smaller.bd601d606ff04c3430a4.png",
+    "static/media/Brain_Icon_CognitiveBias.png": "/the-amazing-incredible-brain/static/media/Brain_Icon_CognitiveBias.517083273e5df6f11ee6.png",
+    "static/media/Brain_Graphic_imperfect_brain.png": "/the-amazing-incredible-brain/static/media/Brain_Graphic_imperfect_brain.1e64b1e98ee14a42411b.png",
+    "static/media/ForkAndKnife.png": "/the-amazing-incredible-brain/static/media/ForkAndKnife.e3bd6d68194f83c5cd2f.png",
+    "static/media/Brain_Icon_Decisions.png": "/the-amazing-incredible-brain/static/media/Brain_Icon_Decisions.b3274ae474facaaa7654.png",
+    "static/media/emmasarror.png": "/the-amazing-incredible-brain/static/media/emmasarror.ed5ed9e1ae5edd3cab73.png",
+    "static/media/NLI_Icon_Spedometer.png": "/the-amazing-incredible-brain/static/media/NLI_Icon_Spedometer.293f258da5ae8eb3b5c2.png",
+    "static/media/NLI_Icon_Numbers.png": "/the-amazing-incredible-brain/static/media/NLI_Icon_Numbers.a57d38bea0bab0db7d17.png",
+    "static/media/NLI_white.png": "/the-amazing-incredible-brain/static/media/NLI_white.ea8681e4ccc8dbebf06a.png",
+    "index.html": "/the-amazing-incredible-brain/index.html",
+    "main.11a378fa.css.map": "/the-amazing-incredible-brain/static/css/main.11a378fa.css.map",
+    "main.f804aa11.js.map": "/the-amazing-incredible-brain/static/js/main.f804aa11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11a378fa.css",
+    "static/js/main.f804aa11.js"
+  ]
+}
