@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-amazing-incredible-brain/static/css/main.11a378fa.css",
-    "main.js": "/the-amazing-incredible-brain/static/js/main.f804aa11.js",
+    "main.js": "/the-amazing-incredible-brain/static/js/main.32ffa65f.js",
     "static/media/Blog_Brain_02.png": "/the-amazing-incredible-brain/static/media/Blog_Brain_02.e10b51978940bf397661.png",
     "static/media/NLI_People_General_alt.png": "/the-amazing-incredible-brain/static/media/NLI_People_General_alt.986db6fb4029803830ea.png",
     "static/media/Brain_Graphic_10_percent_smaller.png": "/the-amazing-incredible-brain/static/media/Brain_Graphic_10_percent_smaller.bd601d606ff04c3430a4.png",
@@ -15,10 +15,10 @@
     "static/media/NLI_white.png": "/the-amazing-incredible-brain/static/media/NLI_white.ea8681e4ccc8dbebf06a.png",
     "index.html": "/the-amazing-incredible-brain/index.html",
     "main.11a378fa.css.map": "/the-amazing-incredible-brain/static/css/main.11a378fa.css.map",
-    "main.f804aa11.js.map": "/the-amazing-incredible-brain/static/js/main.f804aa11.js.map"
+    "main.32ffa65f.js.map": "/the-amazing-incredible-brain/static/js/main.32ffa65f.js.map"
   },
   "entrypoints": [
     "static/css/main.11a378fa.css",
-    "static/js/main.f804aa11.js"
+    "static/js/main.32ffa65f.js"
   ]
 }
