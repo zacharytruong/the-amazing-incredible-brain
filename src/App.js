@@ -1,17 +1,18 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
-import { AnimatePresence } from 'framer-motion';
-import './App.css';
-
+import Author from './components/Author';
+import Fact from './components/Fact';
+import Fiction from './components/Fiction';
 function App() {
   return (
-    <AnimatePresence>
-      <BrowserRouter>
+    <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/author" element={<Author />} />
+          <Route path="/fact" element={<Fact />} />
+          <Route path="/fiction" element={<Fiction />} />
         </Routes>
       </BrowserRouter>
-    </AnimatePresence>
   );
 }
 
